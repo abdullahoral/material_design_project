@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="article_title_max_line">2</integer>
+    <integer name="article_title_min_line">2</integer>
+    <integer name="article_subtitle_max_line">2</integer>
+    <integer name="article_subtitle_min_line">2</integer>
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">XYZ Reader</string>
+    <string name="action_share">Share</string>
+    <string name="up">Up</string>
+    <string name="show_all">Show all…</string>
+    <string name="connected_error_message">Internet Connection Problems!</string>
+    <string name="snack_bar_try_again">Try again!</string>
+</resources>
